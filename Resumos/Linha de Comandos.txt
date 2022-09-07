@@ -1,0 +1,8 @@
+ls: listar ficheiros
+cp: copiar ficheiros
+mv: mover ou renomear ficheiros
+rm: remover um ficheiro
+mkdir: make directory (criar um ficheiro)
+cd: change directory
+rmdir: remove directory
+clear
